@@ -1,0 +1,426 @@
+*{
+ /* overflow-x: hidden; */
+ /* overflow-y: hidden; */
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+}
+body{
+ overflow-x: hidden;
+
+}
+.parent01{
+    background-color: #82ae46 ;
+  
+    
+}
+.dropdown-item{
+    font-family: 'Afacad', sans-serif;
+font-family: 'Diphylleia', serif;
+
+}
+.deliver{
+    margin-bottom: 200px;
+    color: white;
+    font-family: cursive;
+    letter-spacing: 10px;
+    font-size: 70px;
+    /* font-family: 'Afacad', sans-serif; */
+font-family: ' Cursive', cursive;
+/* font-family: 'Diphylleia', serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Josefin Sans', sans-serif; */
+}
+.vegi011{
+    margin-top: -260px;
+}
+.card{
+    border: none ;
+}
+.btn{
+    margin-left: 130px;
+}
+.navbar011{
+    color: #82ae46;
+    
+    font-style: italic;
+    font-size: 24px;
+}
+.Our-Product{
+    overflow-x: hidden;
+}
+.btn010{
+    margin-top: -239%;
+    margin-left: -88%;
+}
+/* .background-image01{
+    background-image: url(img/bg_3.jpg) ;
+    height: 1000px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10%
+} */
+
+.best-price01{
+    margin-left: 54%;
+    margin-top: 14%;
+}
+.best-price012{
+    margin-left: 54%;
+    margin-top: 2%;
+    font-size: 40px;
+    
+}
+.best-price013{
+    margin-left: 54%;
+    margin-top: 2%;
+}
+.Spinach{
+    margin-left: 54%;
+    margin-top: 2%;
+    font-style: italic; 
+}
+.lastnumber011{
+    border-right: 2px solid rgb(218, 217, 217);
+    margin-left: 100%;
+    font-size: 50px;
+    color: #82ae46;
+    
+}
+
+.lastnumber011{
+    border-right: 2px solid rgb(213, 209, 209);
+    margin-left: 15%;
+    font-size: 50px;
+    color: #82ae46;
+    /* margin: 15px; */
+    /* margin-left: 100px; */
+      
+}
+
+.person01{
+    align-items: center
+}
+.row{
+    justify-content: space-around
+}
+.icon-company02{
+    justify-content: space-between
+}
+/* .input01{
+    height: 40px;
+    margin-left: -3px;
+    margin-top: -2px;
+} */
+
+.input012{
+    position: absolute;
+    top: -83px;
+    height: 37px;
+    /* margin-left: 908px; */
+    right: 91px;
+}
+.btn-23{
+    margin-left: 150px;
+}
+.click-bt{
+    margin-top: -50px;
+}
+.blog-main{
+    background-image: url(img/bg_0021\ \(1\).jpg);
+    height: 429px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hoem01{
+    /* margin-top: 40px !important; */
+    position: absolute;
+    /* top: 10px; */
+    margin-top: 197px;
+    margin-left: 761px;
+    letter-spacing: 5px;
+    color: white;
+}
+.hoem02{
+    position: absolute;
+    margin-top: 221px;
+    margin-left: 762px;
+    letter-spacing: 5px;
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+}
+.hoem030{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 707px;
+    letter-spacing: 5px;
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+}
+.image01{
+    width: 100%;
+    overflow-x: hidden;
+}
+.img-fruit01{
+    margin-left: 245px;
+    margin-top: 81px;
+    overflow-x: hidden;
+}
+.right02 h6 {
+    font-size: 14px;
+ overflow-y: hidden;
+
+    margin-left: 43px;
+    margin-top: 85px;
+}
+.right02 .even-p1 {
+    margin-top: 50px;
+    margin-left: 17px;
+    font-size: 23px;
+}
+.all-powerful{
+    overflow-x: hidden;
+}
+.counts01{
+ justify-content: flex-end  ;
+ position: absolute;
+ left: 903px;
+ top: 541px;
+}
+.minutes11{
+    margin-top: 50px;
+    position: absolute;
+    left: 20px;
+    margin-top: 90px;
+    color: black;
+}
+.minutes12{
+    margin-top: 50px;
+    position: absolute;
+    left: 98px;
+    margin-top: 90px;
+    color: black;
+}
+.minutes13{
+    margin-top: 50px;
+    position: absolute;
+    left: 190px;
+    margin-top: 90px;
+    color: black;
+}
+.About-01{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 454px;
+    width: 528px;
+    margin-top: 34px;
+}
+.Vegefood01 h2{
+    margin-right: 30px;
+    margin-left: -30px;
+    margin-top: 33px;
+    font-size: 44px;
+}
+.veg-fruit01{
+    background-image: url(img/copy-bg-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    opacity: 0.6;
+    margin-top: 100px;
+}
+.counter001{
+    margin-left: 267px;
+    margin-top: 171px;
+    position: absolute;
+    font-size: 50px;
+    color: black;
+}
+.counter0011 {
+    margin-left: 590px;
+    margin-top: 171px;
+    position: absolute;
+    font-size: 50px;
+    color: black;
+}
+
+.counter0013 {
+    margin-left: 890px;
+    margin-top: 171px;
+    position: absolute;
+    font-size: 50px;
+    color: black;
+}
+.counter0014 {
+    margin-left: 1210px;
+    margin-top: 171px;
+    position: absolute;
+    font-size: 50px;
+    color: black;
+}
+.js-count{
+    margin-top: -20px;
+}
+.Street01{
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 50px;
+    align-items: flex-end;
+justify-content: space-between;
+align-content: flex-end;
+}
+.Address012{
+    height: 97px;
+    width: 300px;
+    /* background-color: blueviolet; */
+}
+.form011{
+    margin-top: 50px;
+    background-color: rgb(216, 213, 213);
+    margin-top: 150px;
+}
+.Subscribe001{
+    height: 40px;
+    margin-left: 1310px;
+    padding: 5px;
+    position: absolute;
+    top: -33px;
+ 
+}
+
+.abc {
+    /* display: none; */
+}
+.subb001 button{
+    right: 9px;
+    top: -35px;
+}
+@media screen and (max-width : 720px) and (min-width : 480px)
+ {
+
+   
+    .media-input{
+     margin-top: 29px;
+     height: 40px;
+     margin-left: -252px;
+    }
+   /* .input01 {
+     margin-left: -399px;
+     margin-top: 40px;
+    } */
+    .input012 {
+        height: 40px;
+        margin-left: -46px;
+        margin-top: -24px;
+    }
+    .count0-2 {
+
+    }
+   
+ .abc{
+    display: none;
+}
+
+.Subscribe001 {
+    height: 40px;
+    margin-left: 518px;
+    padding: 5px;
+    position: absolute;
+    top: 40px;
+}
+.input012 {
+    position: absolute;
+    top: 16px;
+    left: 161px;
+}
+.order0012{
+    margin-left: 200px;
+    padding: 49px;
+}
+.PEPPER01{
+        margin-left: 134px;
+        padding: 0px;
+        height: 384px;
+}
+.subb001{
+    display: none;
+}
+.input-second01{
+    background-color: red;
+    display: none;
+}
+.counter001 {
+    margin-left: 62px;
+    margin-top: 35px;
+}
+.counting-12{
+    display: none;
+}
+.hoem02 {
+    position: absolute;
+    margin-top: 221px;
+    margin-left: 319px;
+    letter-spacing: 5px;
+    font-weight: 700;
+    font-size: 50px;
+    color: #d00000;
+}
+.hoem01 {
+    position: absolute;
+    margin-top: 197px;
+    margin-left: 294px;
+    letter-spacing: 5px;
+    color: #bd2929;
+    font-size: 20px;
+}
+.image-012 {
+    /* background-color: red; */
+}
+.Vegefood012 h2 {
+    margin-right: 30px;
+    margin-left: -555px;
+    margin-top: 516px;
+    font-size: 44px;
+}
+.paragrph0123{
+    /* margin-left: -550px; */
+    position: absolute;
+    left: 121px;
+    top: 1227px;
+}
+
+.paragrph01234{
+    /* margin-left: -550px; */
+    position: absolute;
+    left: 121px;
+    top: 1313px;
+}
+.button021{
+    margin-left: -487px;
+    margin-top: 178px;
+}
+.newletters02{
+background-color: red;
+}
+.hoem030 {
+    position: absolute;
+    margin-top: 236px;
+    margin-left: 271px;
+    letter-spacing: 5px;
+    font-weight: 700;
+    font-size: 50px;
+    color: #dd4242;
+}
+.img-fruit01 {
+    margin-left: 51px;
+    margin-top: 81px;
+    overflow-x: hidden;
+}
+
+ }
